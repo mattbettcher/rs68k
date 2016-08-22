@@ -1,0 +1,6 @@
+[package]
+name = "rs68k"
+version = "0.1.0"
+authors = ["mattb"]
+
+[dependencies]
